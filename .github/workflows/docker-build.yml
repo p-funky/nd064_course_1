@@ -44,4 +44,4 @@ jobs:
           file: exercises/python-helloworld/Dockerfile
           platforms: linux/amd64
           push: true
-          tags: pfunky/python-helloworld:latest
+          tags: pfunky/python-hello-world:latest
